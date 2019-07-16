@@ -8,4 +8,8 @@ public class gittest {
         System.out.println("xioametiousdfjnqwoiejif");
         System.out.println("xioametiousdfjnqwoiejif");
     }
+
+    public void save() {
+        System.out.println("hserwfdse");
+    }
 }
